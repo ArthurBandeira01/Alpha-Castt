@@ -1,0 +1,573 @@
+[30-Jul-2020 02:54:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:26
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 26
+[30-Jul-2020 02:54:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:08:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:26
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 26
+[30-Jul-2020 03:08:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:19:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:19:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:19:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:19:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:20:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:20:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:21:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:21:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:22:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:22:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:23:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:23:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:23:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:23:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:23:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:23:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:23:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:23:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:35:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:26
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 26
+[30-Jul-2020 03:39:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[30-Jul-2020 03:39:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/alphac30/public_html/classes/Site.php:7
+Stack trace:
+#0 /home1/alphac30/public_html/index.php(2): Site::updateUsuarioOnline()
+#1 {main}
+  thrown in /home1/alphac30/public_html/classes/Site.php on line 7
+[24-Aug-2020 10:54:19 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:19 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:19 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 10:54:19 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:19 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:19 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 10:54:20 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:20 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:20 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 10:54:20 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:20 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:20 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 10:54:21 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:21 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:21 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 10:54:21 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:21 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:21 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 10:54:22 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:22 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:22 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 10:54:22 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:22 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:22 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 10:54:29 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:29 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:29 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 10:54:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 15:00:41 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 15:00:41 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 15:00:41 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 15:00:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 16:20:08 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:08 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:08 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 16:20:10 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:10 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:10 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 16:20:10 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:10 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:10 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 16:20:12 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:12 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:12 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 16:20:13 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:13 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:13 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:20:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 16:24:19 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:24:19 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:24:19 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:24:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 16:24:19 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:24:19 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:24:19 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 16:24:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 18:14:38 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 18:14:38 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 18:14:38 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 18:14:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 19:14:46 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 19:14:46 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 19:14:46 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 19:14:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 19:14:46 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 19:14:46 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 19:14:46 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 19:14:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 20:05:27 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:05:27 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:05:27 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:05:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[24-Aug-2020 20:07:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 08:21:27 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 08:21:27 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 08:21:27 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 08:21:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 08:53:19 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 08:53:19 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 08:53:19 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 08:53:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 09:48:39 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 09:48:39 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 09:48:39 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 09:48:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 09:49:08 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 09:49:08 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 09:49:08 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 09:49:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 09:49:44 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 09:49:44 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 09:49:44 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 09:49:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 10:52:17 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:17 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:17 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 10:52:17 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:17 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:17 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 10:52:25 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:25 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:25 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 10:52:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 17:31:34 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 17:31:34 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 17:31:34 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 17:31:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[25-Aug-2020 19:13:47 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 19:13:47 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 19:13:47 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[25-Aug-2020 19:13:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 08:53:48 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 08:53:48 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 08:53:48 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 08:53:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 09:45:51 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 09:45:51 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 09:45:51 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 09:45:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 09:49:22 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 09:49:22 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 09:49:22 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 09:49:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 09:50:44 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 09:50:44 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 09:50:44 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 09:50:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 10:53:16 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:16 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:16 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 10:53:16 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:16 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:16 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 10:53:22 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:22 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:22 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 10:53:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 11:32:59 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 11:32:59 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 11:32:59 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 11:32:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 12:43:54 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 12:43:54 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 12:43:54 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 12:43:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 16:00:52 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 16:00:52 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 16:00:52 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 16:00:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 19:16:17 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 19:16:17 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 19:16:17 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 19:16:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 21:18:12 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:12 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:12 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 21:18:12 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:12 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:12 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 21:18:31 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:31 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:31 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 21:18:31 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:31 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:31 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:18:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 21:19:20 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:19:20 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:19:20 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:19:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 21:19:20 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:19:20 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:19:20 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:19:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
+[26-Aug-2020 21:20:29 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:20:29 America/Sao_Paulo] PHP Warning:  include(classes/Site.php): failed to open stream: No such file or directory in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:20:29 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'classes/Site.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/alphac30/public_html/config.php on line 8
+[26-Aug-2020 21:20:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Site' not found in /home1/alphac30/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/alphac30/public_html/index.php on line 2
